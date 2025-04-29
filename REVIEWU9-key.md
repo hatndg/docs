@@ -1,213 +1,258 @@
+# Unit 9 – PRESERVING THE ENVIRONMENT - Answers
 
-**Page 1**
+## Page 1
 
-*   **A- PHONETICS - I:**
-    1.  B (anNOUNCEment - stress on 2nd, others on 1st) - Correct
-    2.  D (submaRINE - stress on 3rd, others on 2nd) - Correct
-    3.  A (emPLOYment - stress on 2nd, others on 1st) - Correct
-    4.  A (PROperty - stress on 1st, others on 2nd) - Correct
-    5.  B (eROsion - stress on 2nd, others on 1st) - Correct
-    6.  C (volunTEER - stress on 3rd, others on 2nd) - Correct
-*   **B- VOCABULARY & GRAMMAR - I:**
-    1.  use (land use) - Correct
-    2.  Habitats (Agricultural habitats) - Correct
-    3.  ecosystems (provide important ecosystems) - Correct
-    4.  demand (rising demand for food) - Correct
-    5.  clearing (large-scale clearing of natural habitats) - Correct
-    6.  forest (lowland forest) - Correct
-    7.  farms (soybean and cattle farms) - Correct
-    8.  loss (habitat loss) - Correct
-    9.  threats (significant threats) - Correct
-    10. fauna (endangered fauna) - Correct
-*   **B- VOCABULARY & GRAMMAR - II:**
-    1.  pollutants (one of the... pollutants) - Correct
-    2.  Construction (Construction of hotels) - Correct
-    3.  attractions (tourist attractions) - Correct
-    4.  sustainable (consumed at a sustainable level) - Correct
-    5.  depletion (resource depletion) - Correct
-    6.  deforestation (rate of deforestation) - Correct
-    7.  environmental (huge environmental and social impacts) - Correct
-    8.  awareness (public awareness) - Correct
+**A- PHONETICS**
 
-**Page 2**
+**I- Choose the word which has a different stress pattern**
+1.  B
+2.  D
+3.  A
+4.  A
+5.  B
+6.  C
 
-*   **II- (Continued):**
-    9.  solution (A great solution) - Correct
-    
-    10. annually - depletion - priority (cut down **annually**... preserving the **priority**... **depletion** continues...) - *The order seems mixed*. It should likely be: "...cut down **annually**...preserving the **depletion** of forests...important **priority**." Let's assume the blanks match the word order: **annually, depletion, priority**.
-    
-*   **III - Fill in ONE suitable word:**
-    1.  warming / climate - Correct
-    2.  forests / rainforests - Correct
-    3.  home / host - Correct
-    4.  protect / preserve - Correct
-    5.  way - Correct
-    6.  amounts / quantities - Correct
-    7.  life - Correct
-    8.  systems / interactions - Correct
-    9.  value - Correct
-    10. of / about - Correct
-*   **IV - Reported Speech:**
-    1.  Nam's father told him to think about packing before he bought products. - Correct
-    2.  Mr Tuan told his students to turn off lights and other electrical devices when they didn't need them. - Correct
-    3.  Mai told Anna not to buy any products made from wildlife skins. - Correct
-    4.  Mai told Nick not to buy wood products from rainforest countries unless he knew they came from eco-friendly suppliers. - Correct
-    5.  Mary told Kevin to join an organization or an Internet group that was working to protect rainforests or wildlife. - Correct
-    6.  Mai's mother told her that when she finished unpacking her groceries, she should save the bags and use them to collect her rubbish. OR Mai's mother told her to save the bags... when she finished... (The initial answer is acceptable too). - Correct
+**B- VOCABULARY & GRAMMAR**
 
-**Page 3**
+**I- Fill in each blank with the correct word from the box**
+1.  use
+2.  Habitats
+3.  ecosystems
+4.  demand
+5.  clearing
+6.  forest
+7.  farms
+8.  loss
+9.  threats
+10. fauna
 
-*   **IV - Reported Speech (Continued):**
-    7.  Anna said that comics, newspapers and magazines could become wrapping paper. - Correct
-    8.  Nam said that pesticides could cause harm to humans, animals, or the environment because they were designed to kill or affect living organisms. - Correct
-    9.  The scientist said that trees and vegetation gave us the oxygen that we breathed while they also helped to absorb carbon dioxide which was released into the air. - Correct
-    10. Kevin said that plastics did not break down very easily which created a landfill problem. - Correct
-*   **C. READING - I - Task 1:**
-    1.  Traits (n) - C. Particular characteristics - Correct
-    2.  Offspring(n) - E. The young of an animal - Correct
-    3.  Optional (adj) - A. The best possible - *This is a weak match, but likely the intended answer among poor choices.* Correct based on elimination.
-    4.  Hollows (n) - B. Empty space in something - Correct
-    5.  Invaluable(adj) - D. Extremely useful - Correct
-*   **C. READING - I - Task 2:**
-    6.  Birds build their nests in many different places and environments, such as on high branches, in bushes, on the ground, or in naturally formed tree hollows on ancient trees. - Correct (Added detail)
+**II- Use the correct form of the words in brackets**
+1.  pollutants
+2.  Construction
+3.  attractions
+4.  sustainable
+5.  depletion
+6.  deforestation
+7.  environmental
+8.  awareness
 
-**Page 4**
+## Page 2
 
-*   **C. READING - I - Task 2 (Continued):**
-    7.  Birds build their nests mainly to hatch their eggs and raise their offspring. - Correct
-    8.  The effect of deforestation is that birds lose their habitats and breeding grounds, and there is a lack of optional breeding areas. - Correct
-    9.  We can teach our children to observe birds and nests and how they take care of their eggs. - Correct
-    10. People can preserve birds by keeping enough open space around their homes where birds feel safe and by preserving forests. - Correct
-*   **II - Reading (River Pollution) - Task 1:**
-    1.  Sustain (v) - E. To keep somebody or something alive or healthy - Correct
-    2.  Aquatic (adj) - A. (about an animal or a plant) living in water - Correct
-    3.  Accumulate(v) - B. To increase over a period of time - Correct
-    4.  Catchment area (np) - C. The area from which rain flows into a river or a lake - Correct
-    5.  Channel (n) - D. A part of a river - Correct
-*   **II - Reading (River Pollution) - Task 2:**
-    6.  River pollution occurs when pollutants are not removed from sewage and are discharged into the river. - Correct
-    7.  Fresh water is important to humans for drinking, cooking, and washing, and it is essential to sustain the life of animals, fishes, and aquatic plants living near or in the river. - Correct
-    8.  When heavy rainfall occurs in a polluted area, pollutants accumulated within the catchment area may be washed into river channels. - Correct
+**II- Use the correct form of the words in brackets (Continued)**
+9.  solution
+10. annually, depletion, priority (*Based on assumed order*)
 
-**Page 5**
+**III- Fill in each blank with ONE suitable word**
+1.  warming / climate
+2.  forests / rainforests
+3.  home / host
+4.  protect / preserve
+5.  way
+6.  amounts / quantities
+7.  life
+8.  systems / interactions
+9.  value
+10. of / about
 
-*   **II - Reading (River Pollution) - Task 2 (Continued):**
-    9.  Waste water may be discharged into the river channels through drainage systems. - Correct
-    10. Industrial waste can contain substances like sulfur, increasing the 'activity' (likely meaning pollution or chemical reaction) of the river water. - Correct (Added clarification)
-*   **III - Reading (Environmental Impacts of Tourism) - Questions:**
-    1.  Environmental impacts of tourism occur when the level of visitor use is greater than the environment's ability to cope with this use. - Correct
-    2.  Tourism can cause soil erosion, increased pollution, discharges into the sea, natural habitat loss, increased pressure on endangered species, and heightened vulnerability to forest fires. - Correct
-    3.  The tourism industry generally overuses water resources (especially fresh water), leading to water shortages, degradation of water supplies, and generating a greater volume of wastewater. Golf courses particularly deplete fresh water resources, causing water scarcity. - Correct
+**IV- Change the following sentences to reported speech**
+1.  Nam's father told him to think about packing before he bought products.
+2.  Mr Tuan told his students to turn off lights and other electrical devices when they didn't need them.
+3.  Mai told Anna not to buy any products made from wildlife skins.
+4.  Mai told Nick not to buy wood products from rainforest countries unless he knew they came from eco-friendly suppliers.
+5.  Mary told Kevin to join an organization or an Internet group that was working to protect rainforests or wildlife.
+6.  Mai's mother told her to save the bags and use them to collect her rubbish when she finished unpacking her groceries.
 
-**Page 6**
+## Page 3
 
-*   **III - Reading (Environmental Impacts of Tourism) - Questions (Continued):**
-    4.  Golf courses are harmful because they require enormous amounts of water daily, which depletes fresh water resources and can result in water scarcity. - Correct
-    5.  Tourism can create great pressure on local resources (like energy, food, raw materials) because the number of inhabitants can increase significantly (e.g., ten times) during the high season, placing high demand on potentially short supplies to meet tourist expectations. - Correct
-    6.  Because trekking tourists in these areas generate a great deal of waste and leave behind garbage (like drink bottles/cans and toilet paper) along the trails. - Correct
-*   **E – WRITING - I:**
-    1.  Agriculture uses soils and water resources for food production. - Correct
-    2.  At the same time, it impacts these resources. - Correct
-    3.  Agriculture production continues to rely on inorganic fertilisers and pesticides. - Correct
-    4.  Inappropriate farming practices lead to soil erosion and nutrient loss. - Correct
-    5.  Soil erosion is the removal of soil by wind and water. - Correct
-    6.  Erosion leads to soil degradation and eventually complete destruction. - Correct
-*   **TEST 1 (UNIT 9) - I - Sound:**
-    1.  C (polar - /əʊ/ or /ə/ sound vs /æ/ in others) - Correct
-    2.  A (threat - /e/ sound vs /iː/ in others) - Correct
-    3.  D (preserve - /zɜː/ sound vs /s/ in others like conserve, fossil, discuss) - Correct
-*   **TEST 1 (UNIT 9) - II - Stress:**
-    4.  D (environment - enVIronment, 2nd syllable vs 1st in fertilizer, ecosystem, agriculture) - Correct
-    5.  A (machinery - maCHInery, 2nd syllable vs 3rd in independent, preservation, conservation) - Correct
-*   **TEST 1 (UNIT 9) - III - Multiple Choice:**
-    6.  D (recycles - meaning of turning waste into useful objects) - Correct
+**IV- Change the following sentences to reported speech (Continued)**
+7.  Anna said that comics, newspapers and magazines could become wrapping paper.
+8.  Nam said that pesticides could cause harm to humans, animals, or the environment because they were designed to kill or affect living organisms.
+9.  The scientist said that trees and vegetation gave us the oxygen that we breathed while they also helped to absorb carbon dioxide which was released into the air.
+10. Kevin said that plastics did not break down very easily which created a landfill problem.
 
-**Page 7**
+**C. READING**
 
-*   **TEST 1 (UNIT 9) - III - Multiple Choice (Continued):**
-    7.  B (impact **on** the environment... damaging **to** the planet) - Correct
-    8.  B (eco-friendly - describes sources that don't harm environment) - Correct
-    9.  C (emits - burning garbage emits gases) - Correct
-    10. D (while/whereas - contrasting candy/chocolate trash vs fruit/veg less waste) - D (while) fits best.
-    11. B (buy it **used** - adjective describing the state) - Correct
-    12. A (asked the children **not to pollute** - reported command) - Correct
-    13. C (asked me how many students **there were** - reported question, tense shift, word order) - Correct
-    14. D (told me that **he had participated**... **the previous day** - reported speech, past perfect, time shift) - Correct
-    15. C (asked why **she had written** - reported question, past perfect) - Correct
+**I- Birds and Their Nests**
 
-**Page 8**
+**Task 1: Match a word in column B**
+1.  C
+2.  E
+3.  A
+4.  B
+5.  D
 
-*   **IV - Fill in the blank (Ha noi joins hands...):**
-    16. volunteers - Correct
-    17. issues - Correct
-    18. competitions - Correct
-    19. organisations - Correct
-    20. acts - Correct
-    21. resources - Correct
-    22. opportunity - Correct
-    23. aim - Correct
-    24. sense - Correct
-    25. acts - Correct
+**Task 2: Answer the questions**
+6.  **Where do birds build their nests?**
+    Birds build their nests in many different places and environments, such as on high branches, in bushes, on the ground, or in naturally formed tree hollows on ancient trees.
 
-*   **V - Choose the word (Starts Page 9):**
+## Page 4
 
-**Page 9**
+**I- Birds and Their Nests - Task 2 (Continued)**
+7.  **What do birds build their nests for?**
+    Birds build their nests mainly to hatch their eggs and raise their offspring.
+8.  **What is the effect of deforestation on birds?**
+    The effect of deforestation is that birds lose their habitats and breeding grounds, leading to a lack of optional breeding areas.
+9.  **What can we teach our children in order to protect birds?**
+    We can teach our children to observe birds and nests and how they take care of their eggs.
+10. **What can people do to preserve birds?**
+    People can preserve birds by keeping enough open space around their homes where birds feel safe and by preserving forests.
 
-*   **V - Choose the word (Tourism impacts):**
-    26. C (Physical **impacts**) - Correct
-    27. B (**long-term** changes) - Correct
-    28. D (development of tourism **facilities** such as...) - D fits better than B (activities). Accommodation/water supplies are facilities.
-    29. D (**affect** sand mining...) - Verb needed. B (involve) or D (affect). Affect fits the negative consequence context better.
-    30. A (**have increased** - present perfect needed for ongoing situation matching visitor numbers) - Correct
-    31. C (**habitat loss** - fits context of road construction) - Correct
-    32. B (**accompanied** by various forms...) - Correct
-    33. A (Smog was **so thick** that...) - Correct
-    34. C (facilities frequently **requires** clearing...) - Subject is 'Construction' (singular). - Correct
-    35. D (erosion of the local **ecosystem**) - Correct
-*   **VI - Read the passage (How to Stop Water Pollution) - (Starts Page 10):**
+**II- River Pollution**
 
-**Page 10**
+**Task 1: Match a word with its definition**
+1.  E
+2.  A
+3.  B
+4.  C
+5.  D
 
-*   **VI - Read the passage (How to Stop Water Pollution):**
-    36. C (chemicals in the sediment from the soil erosion will pollute water) - Explicitly stated. - Correct
-    37. B (it may keep the banks of rivers well-covered with trees - This *prevents* pollution, it's not an effect *of* pollution) - Correct
-    38. A (They are not disposed properly) - Stated in the text. - Correct
-    39. D (ask local people to take part in cleaning up the beaches...) - The passage mentions organizing cleaning parties and getting local people involved. - Correct (Option D is on page 11)
+**Task 2: Answer the questions**
+6.  **When does river pollution occur?**
+    River pollution occurs when pollutants are not removed from sewage and are discharged into the river.
+7.  **What is the important role of fresh water to humans and animals?**
+    Fresh water is important for humans (drinking, cooking, washing) and essential to sustain the life of animals, fishes, and aquatic plants.
+8.  **What happens when heavy rainfall occurs in a polluted area?**
+    When heavy rainfall occurs in a polluted area, pollutants accumulated within the catchment area may be washed into river channels.
 
-**Page 11**
+## Page 5
 
-*   **VI - Read the passage (How to Stop Water Pollution) (Continued):**
-    40. B (using too much plastic can cause bad effects on ocean pollution) - Inferred from the high consumption figures and the mention of alternatives having an impact. - Correct
-*   **TEST 2 (UNIT 9) - I - Sound:**
-    1.  B (area - /eə/ sound vs /æ/ in Damage, Contaminate, Natural) - Correct
-    2.  D (Deforest - /ɒ/ sound in underlined 'o', others have /ə/) - Correct (Confirmed earlier check)
-    3.  B (focus - /əʊ/ sound vs /æ/ in Impact, practical, /ɪ/ in pesticide) - Correct
-*   **TEST 2 (UNIT 9) - II - Stress:**
-    4.  D (effect - stress on 2nd, others on 1st) - Correct
-    5.  C (degradation - stress on 3rd, others on 2nd) - Correct
-*   **TEST 2 (UNIT 9) - III - Multiple Choice:**
-    6.  C (cause air **pollution**) - Correct
-    7.  C (**causing** it less probable) - Participle clause. - Correct
-    8.  B (**inappropriately**) - Adverb modifying thrown. - Correct
-    9.  A (**providing** oxygen, **saving** water) - Using participles fits the structure. - Correct
-    10. D (**threat**... **deaths**) - Noun... noun. Air pollution is a threat... factor in deaths. - Correct
-    11. A (**because** they don't emit...) - Conjunction of reason. - Correct (Option A is on page 12)
+**II- River Pollution - Task 2 (Continued)**
+9.  **How may waste water be discharged into the river?**
+    Waste water may be discharged into the river channels through drainage systems.
+10. **What is the effect of industrial waste on the environment?**
+    Industrial waste can pollute river water (e.g., sulfur increasing chemical activity/pollution) and harm aquatic life.
 
-**Page 12**
+**III- Environmental Impacts of Tourism**
 
-*   **TEST 2 (UNIT 9) - III - Multiple Choice (Continued):**
-    11. A (because) - Correct
-    12. C (Kevin told Phong **(that) plastic had been** popular... - reported statement, past perfect) - Correct
-    13. D (Keevin told Phong **(that) plastic had been** very harmful... - reported statement, past perfect) - Correct
-    14. A (He **told us** we could buy...) - Correct reporting verb and structure. - Correct
-    15. B (My mother encouraged me **to collect**...) - Verb pattern 'encourage someone to do something'. - Correct
+**Answer the questions:**
+1.  **When do environmental impacts of tourism occur?**
+    Environmental impacts of tourism occur when the level of visitor use is greater than the environment's ability to cope with this use.
+2.  **What impacts does tourism cause in an area?**
+    Tourism can cause soil erosion, increased pollution, discharges into the sea, natural habitat loss, increased pressure on endangered species, and heightened vulnerability to forest fires.
+3.  **What effects does the tourism industry leave on water sources?**
+    The tourism industry overuses water resources, leading to shortages, degradation of supplies, increased wastewater, and water scarcity (especially from golf courses).
 
-**Summary of Corrections/Confirmations:**
+## Page 6
 
-*   Page 2, II-10: Confirmed likely intended answer order based on brackets.
-*   Page 3, C-I Task 1-3: Confirmed 'A' as the likely intended answer despite being a poor definition match.
-*   Page 7, Test 1-III-10: Changed from D to D (no change, just confirmed 'while').
-*   Page 9, V-28: Changed from D to D (no change, just confirmed 'facilities').
-*   Page 9, V-29: Changed from D to D (no change, confirmed 'affect').
-*   Page 11, Test 2-I-2: Confirmed D based on underlined sound analysis.
-*   Page 11, Test 2-III-11: Confirmed A (because).
+**III- Environmental Impacts of Tourism (Continued)**
+4.  **Why are golf courses harmful to the environment?**
+    Golf courses are harmful because they require enormous amounts of water daily, depleting fresh water resources and potentially causing water scarcity.
+5.  **Why can tourism create great pressure on local resources?**
+    High tourist numbers, especially in peak season, drastically increase demand for local resources (energy, food, water) which may be in short supply.
+6.  **Why do some trails have the nickname of “ Coca-Cola trail" or 'Toilet paper trail"?**
+    Because trekking tourists generate lots of waste and leave behind garbage like drink cans/bottles and toilet paper along the trails.
+
+**E – WRITING**
+
+**I- Use the given words/ phrases to make sentences**
+1.  Agriculture uses soils and water resources for food production.
+2.  At the same time, it impacts these resources.
+3.  Agriculture production continues to rely on inorganic fertilisers and pesticides.
+4.  Inappropriate farming practices lead to soil erosion and nutrient loss.
+5.  Soil erosion is the removal of soil by wind and water.
+6.  Erosion leads to soil degradation and eventually complete destruction.
+
+---
+
+**TEST 1 (UNIT 9)**
+
+**I- Find the word which has a different sound**
+1.  C
+2.  A
+3.  D
+
+**II- Choose the word which has a different stress pattern**
+4.  D
+5.  A
+
+**III- Choose the best answer A,B,C or D**
+6.  D
+
+## Page 7
+
+**III- Choose the best answer A,B,C or D (Continued)**
+7.  B
+8.  B
+9.  C
+10. D
+11. B
+12. A
+13. C
+14. D
+15. C
+
+## Page 8
+
+**IV- Fill in each blank in the passage**
+16. volunteers
+17. issues
+18. competitions
+19. organisations
+20. acts
+21. resources
+22. opportunity
+23. aim
+24. sense
+25. acts
+
+**V- Choose the word or phrase that best fits (Starts Page 9)**
+
+## Page 9
+
+**V- Choose the word or phrase that best fits**
+26. C
+27. B
+28. D
+29. D
+30. A
+31. C
+32. B
+33. A
+34. C
+35. D
+
+**VI- Read the passage (How to Stop Water Pollution) (Starts Page 10)**
+
+## Page 10
+
+**VI- Read the passage and choose the correct answer**
+36. C
+37. B
+38. A
+39. D (*See Page 11*)
+
+## Page 11
+
+**VI- Read the passage and choose the correct answer (Continued)**
+39. D
+40. B
+
+---
+
+**TEST 2 (UNIT 9)**
+
+**I- Find the word which has a different sound**
+1.  B
+2.  D
+3.  B
+
+**II- Choose the word which has a different stress pattern**
+4.  D
+5.  C
+
+**III- Choose the best answer A,B,C or D**
+6.  C
+7.  C
+8.  B
+9.  A
+10. D
+11. A (*See Page 12*)
+
+## Page 12
+
+**III- Choose the best answer A,B,C or D (Continued)**
+11. A
+12. C
+13. D
+14. A
+15. B
