@@ -33,7 +33,9 @@
 
 *   **II- (Continued):**
     9.  solution (A great solution) - Correct
+    
     10. annually - depletion - priority (cut down **annually**... preserving the **priority**... **depletion** continues...) - *The order seems mixed*. It should likely be: "...cut down **annually**...preserving the **depletion** of forests...important **priority**." Let's assume the blanks match the word order: **annually, depletion, priority**.
+    
 *   **III - Fill in ONE suitable word:**
     1.  warming / climate - Correct
     2.  forests / rainforests - Correct
